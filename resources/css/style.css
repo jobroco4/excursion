@@ -19,7 +19,7 @@ body {
 }
 
 .header--quaternary {
-    font-weight: 300;
+    font-weight: normal;
     font-size: 21px;
     color: gray;
 }
