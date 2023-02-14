@@ -24,6 +24,13 @@ body {
     color: gray;
 }
 
+.header--copyright {
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
+
 /* links */
 
 .link--cta {
